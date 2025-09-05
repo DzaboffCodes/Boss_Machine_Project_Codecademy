@@ -96,10 +96,5 @@ npm start
 - Frontend-backend integration with CORS
 - Modular code organization for scalability
 
-## 🎮 Demo
-
-[Include screenshots or GIFs of your application in action]
-
----
 
 *This project was built as part of learning full-stack web development, focusing on backend API design and Express.js fundamentals.*
